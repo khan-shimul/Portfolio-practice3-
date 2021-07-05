@@ -65,3 +65,19 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+
+.full-stack-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(#FF6A3E, #FA5423);
+    border-image-slice: 1;
+}
+
+.baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
